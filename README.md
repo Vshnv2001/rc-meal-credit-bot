@@ -10,3 +10,5 @@ The /buy and /sell commands followed by the price at which the user is willing t
 Our future updates will focus on making a distinction between buying and selling breakfast and dinner credits. 
 
 The bot can be accessed @mealcreditbot on Telegram
+
+Created in collaboration with: Xu Bojie, Lee I-Shiuan, Nicholas Seah
